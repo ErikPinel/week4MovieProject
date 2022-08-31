@@ -13,6 +13,7 @@
   }
 }
 
+
 .App-header {
   background-color: #282c34;
   min-height: 100vh;
@@ -35,4 +36,9 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+.App{
+  background-color: #1e1e24;
+  overflow-x: hidden;
 }

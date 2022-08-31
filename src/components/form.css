@@ -1,0 +1,22 @@
+.none{
+    display: none;
+}
+
+.block{
+    display: block;
+}
+.btn{background-color: #2b2d42;
+    color: #edf2f4;
+
+}
+
+.iframe{
+   margin-top: 10vh;
+   width: 100VW;
+}
+.formContainer{
+    
+}
+.h2{
+    color: #E50914;
+}
